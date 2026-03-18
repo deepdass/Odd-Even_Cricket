@@ -15,8 +15,7 @@ I made this game because the original game need 2-player for it. In this version
 8. Otherwise, the batter scores runs equal to the number they played
 9. After the batter gets out, the players switch roles
 10. The second player tries to beat the first player’s score
-
-**The player with the higher score at the end wins the game**
+<br>**The player with the higher score at the end wins the game**
 
 - some important hand signs for runs
 1. Showing thumb and little finger Scores - 10 runs
